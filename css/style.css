@@ -1,0 +1,32 @@
+.card{
+  width: 185px;
+  height: 260px;
+  display: inline-block;
+  background-image: url("../img/word-ace-card-back.jpg");
+  background-size: cover;
+  margin: 20px;
+
+}
+
+#card-conteiner{
+  margin: 0 auto;
+  text-align: center;
+  max-width: 800px;
+
+}
+
+.color1{
+  background-color: rgb(134, 11, 244);
+  background-image: none;
+
+}
+.color2{
+  background-color: rgb(83, 240, 15);
+  background-image: none;
+
+}
+.color3{
+  background-color: rgb(153, 21, 21);
+  background-image: none;
+
+}
